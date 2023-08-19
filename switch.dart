@@ -21,10 +21,10 @@ void main(List<String> args) {
       hoy = "jueves";
       break;
     case 6:
-      hoy = "viernes";
+      hoy = "viernessss";
       break;
     case 7:
-      hoy = "sabado";
+      hoy = "sabadod";
       break;
     default:
     hoy = "no";
