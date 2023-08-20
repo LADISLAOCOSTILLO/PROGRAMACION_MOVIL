@@ -2,6 +2,7 @@
 //import 'dart:convert';
 
 void main() {
+  //tares de generar un codigo
   String nombre = "LADISLAO";
   String apellidosp = "COSTILLO";
   String apellidosm = "CAMACHO";
