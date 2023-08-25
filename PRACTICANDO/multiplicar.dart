@@ -9,7 +9,13 @@ void tablaDeMultiplicar(int numero, int limite) {
 
 void main() {
   int numero = 7; // El número para el que deseamos crear la tabla de multiplicar
-  int limite = 10; // El límite hasta el cual deseamos multiplicar
+  int limite = 15; // El límite hasta el cual deseamos multiplicar
 
   tablaDeMultiplicar(numero, limite);
+}
+
+// funcion divir
+void division (int numero, int limite){
+
+  
 }
